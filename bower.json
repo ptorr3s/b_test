@@ -1,0 +1,17 @@
+{
+  "name": "b_test",
+  "version": "0.0.1",
+  "authors": [
+    "Pau Torres <ptorres@klick.com>"
+  ],
+  "description": "this is a test package",
+  "main": "test.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ptorr3s/b_test.git"
+  },
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
